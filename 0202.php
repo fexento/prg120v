@@ -1,6 +1,7 @@
 <?php
 $svar = $_POST['svar'];
-if (!$svar) {
+if (!$svar) 
+{
     print("Du har ikke svar på spørsmålet om du er student eller ikke.")
 }
 else if ($svar=="j")
@@ -15,4 +16,5 @@ else
 {
     print("Du har svart noe annet enn ja eller nei.")
 }
+
 ?>
