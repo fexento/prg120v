@@ -9,7 +9,7 @@ else if ($svar=="j");
 {
     print("Du er student.");
 }
-else if ($svar == "n");
+else if ($svar=="n");
 {
     print("Du er ikke student.");
 }
@@ -19,4 +19,5 @@ else
 }
 
 ?>
+
 
