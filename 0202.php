@@ -17,7 +17,7 @@ else
 {
     print("Du har svart noe annet enn ja eller nei.");
 }
-
 ?>
+
 
 
